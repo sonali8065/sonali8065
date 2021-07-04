@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing web applications
 - 🌱 I’m currently learning Data Structures and Web app development.
 - 💞️ I’m looking to collaborate with you.
-- 📫 How to reach me ...
+
 
 <!---
 sonali8065/sonali8065 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
