@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sonali. I love coffee and music :)
-- 👀 I’m interested in developing web applications
-- 🌱 I’m currently learning Data Structures and Web app development.
-- 💞️ I’m looking to collaborate with you.
+- 👋 Hi, I'm Sonali. I love coffee and music :)
+- 👀 I'm interested in developing web applications
+- 🌱 I'm currently learning Data Structures and Web app development.
+- 💞️ I'm passionate and keen learner.
 
 
 <!---
